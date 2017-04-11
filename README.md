@@ -12,11 +12,11 @@ Mark as Test Source todas as subpastas imediatas de test (não as subpastas das 
 
 Run configurations:
 
-Grails:  ResiduosQuimicos
+Grails:  atec
 
 P/ rodar run-app
 
-Cucumber:  ResiduosQuimicos
+Cucumber:  atec
 
 (IntelliJ) Para rodar os testes, crie uma configuração do grails com a seguinte linha de comando: 
 
